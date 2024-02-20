@@ -1,4 +1,4 @@
-# 🍿 ProjetoDev  
+# ProjetoDev  
 
 Esse Projeto trás uma playlist de informações onde você terá acesso a várias páginas sobre minhas habilidades, desenvolvido em um curso da Rockseat. 
 
